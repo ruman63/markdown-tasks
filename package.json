@@ -1,0 +1,28 @@
+{
+  "name": "markdown-tasks",
+  "version": "1.0.0",
+  "description": "Simple Tasks App using markdown",
+  "keywords": [
+    "tasks",
+    "todo",
+    "notes",
+    "markdown",
+    "vue"
+  ],
+  "author": "Ruman Saleem",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^8.6.4",
+    "tailwindcss": "^0.6.1",
+    "vue": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.0.0",
+    "babel-core": "^6.26.3",
+    "eslint": "^5.0.1",
+    "eslint-plugin-vue": "^4.5.0",
+    "parcel-plugin-eslint": "^1.0.4",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
